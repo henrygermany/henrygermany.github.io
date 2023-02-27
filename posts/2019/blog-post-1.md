@@ -1,5 +1,5 @@
 ---
-layout: post-layout.njk
+layout: post-layout.hbs
 title: This Is My First Ever Post
 date: 2019-05-30
 tags: ['post']

@@ -1,5 +1,5 @@
 ---
-layout: post-layout.njk
+layout: post-layout.hbs
 title: How To Get Rich Quick
 date: 2019-06-01
 tags: ['post']

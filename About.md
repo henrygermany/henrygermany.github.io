@@ -1,5 +1,5 @@
 --- 
-layout: base-layout.njk 
+layout: base-layout.hbs
 --- 
 # About this blog 
   
